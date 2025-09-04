@@ -15,14 +15,14 @@ As a web developer based in Salem, Tamil Nadu, I believe in the power of technol
 Here are the key skills and technologies I use to build robust and scalable applications:
 
 ### **Programming Languages & Frameworks**
-* **(Add your languages, e.g., JavaScript, Python, C++)**
-* **(Add your frameworks, e.g., React.js, Node.js, Express.js)**
+* **( JavaScript, Python, java, css, html, c)**
+* **( React.js, Node.js, Express.js)**
 
 ### **Tools & Technologies**
 * **Version Control:** GitHub
 * **Design & Prototyping:** Framer, Notion
 * **Code Editor:** VS Code
-* **Databases:** _(Add databases you've used, e.g., MongoDB, SQL)_
+* **Databases:** _( MongoDB, SQL)_
 
 ### **Design & Multimedia Skills**
 * Davinci Resolve
